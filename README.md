@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/gif-os.gif" width="850"/>
+</p>
+
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>- **Neuron / SpendSense** – a React Native expense tracking app with group splitting and analytics.<br><br>🤝 I’m looking to collaborate on  <br>- Open-source **React Native projects**<br>- **Java backend tools**<br>- Interesting **AI / ML experiments**<br><br>🛠 I’m looking for help with  <br>- Scaling mobile apps<br>- Backend architecture and APIs<br>- Advanced React Native performance optimization<br><br>🌱 I’m currently learning  <br>- **System Design**<br>- **Machine Learning fundamentals**<br>- **Advanced Java & Backend Development**<br><br>💬 Ask me about  <br>- React Native apps  <br>- Java projects  <br>- Expense tracking systems  <br>- Mobile UI architecture<br><br>⚡ Fun fact  <br>- I enjoy turning everyday problems into software projects (like building an expense tracker to understand real financial data patterns).
 
