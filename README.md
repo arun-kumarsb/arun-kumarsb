@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/gif-os.gif" width="850"/>
+  <img src="./assets/output.gif" width="850"/>
 </p>
 
 # 💫 About Me:
